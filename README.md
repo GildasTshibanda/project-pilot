@@ -17,7 +17,3 @@ M'aider à mieux organiser mes projets personnels, à suivre leur progression et
 ### Statut
 
 Initialisation du projet.
-
-
-
-Comment faire pour configurer Gemini Code Assist dans Vs Code et non utiliser Antigravity, deja c'est tres important pour que l'extension Gemini Code Assist passe et surtout 
