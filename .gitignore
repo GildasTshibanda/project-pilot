@@ -1,0 +1,22 @@
+#dependences
+node-modules/
+
+#environnements variables et secrets
+.env
+.env.*
+!.env.example
+
+#sorti de  construction
+dist/
+next/
+out/
+coverage/
+
+#logs
+.log
+.npm-debug-log
+
+#editeur local et fichiers systeme
+.vs-code
+.DS_Store
+Thumbs.db
