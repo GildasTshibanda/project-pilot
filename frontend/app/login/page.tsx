@@ -74,10 +74,10 @@ export default function LoginPage() {
       <section className="auth-layout">
         <div className="auth-intro">
           <span className="auth-kicker">VOTRE ESPACE DE TRAVAIL</span>
-          <h1>Les bonnes idées méritent davancer.</h1>
+          <h1>Les bonnes idées méritent d’avancer.</h1>
           <p>
             Retrouvez vos projets, clarifiez vos priorités et avancez
-            à votre rythme, une étape après lautre.
+            à votre rythme, une étape après l’autre.
           </p>
 
           <div className="auth-note">
@@ -180,7 +180,7 @@ export default function LoginPage() {
           </form>
 
           <p className="auth-signup-prompt">
-            Vous navez pas encore de compte ?{" "}
+            Vous n’avez pas encore de compte ?{" "}
             <Link href="/register" className="auth-text-link">
               Créer un compte
             </Link>
